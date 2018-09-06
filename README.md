@@ -27,7 +27,7 @@ PC: 4000
 ## Actividad 4: Cara de un dado de 8x7 píxeles
 Debe estar, más o menos, en el centro de la pantalla (no tiene porqué ser exacto)
 ```
-en proceso
+21 F0 F0 22 27 CD 22 27 DD 22 27 ED 22 27 FD 21 F6 F6 22 27 D5 22 27 E5 22 27 F5 18 FE
 ```
 PC: 4000
 
